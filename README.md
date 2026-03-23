@@ -15,7 +15,7 @@ Completed a comprehensive Python certification covering core programming, proble
 - Writing clean and efficient code
 
 📄 Certificate:
-- [View Python Certificate](./python-certificate.pdf)
+- [Python Certificate](./python-certificate-Skill-india.pdf)
 
 ---
 
