@@ -49,6 +49,22 @@ Completed a Java certification to strengthen programming fundamentals and proble
 
 ---
 
+## 🚀 Java Course – Mastering the Fundamentals (Scaler Topics)
+
+Successfully completed an in-depth Java course by Scaler Topics, focused on strengthening core programming concepts and real-world problem-solving skills.
+
+### Key Skills:
+- Core Java fundamentals and syntax
+- Object-Oriented Programming (OOP)
+- Control flow and data handling
+- Debugging and code optimization
+- Hands-on coding challenges
+
+📄 Certificate:
+- [View Java Certificate (Scaler)](./java-scaler-certificate.pdf)
+
+---
+
 ## 🚀 Skills Summary
 
 - Java & Python Programming
